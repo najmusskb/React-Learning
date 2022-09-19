@@ -1,0 +1,15 @@
+learning react
+
+1.function
+2.arrow function 
+3.spreads operator 
+4.map foreeach filter find
+5.distructure
+6.fetch 
+7.key values
+8.Array 
+9.ternary Operator 
+10.shortcut and shortcut and 
+11.truthy value faulsy value 
+12.defult paremeter
+13.lacal storage and sesion storage  
