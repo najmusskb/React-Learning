@@ -1,3 +1,9 @@
+-------------------------Module 
+
+
+
+1---------------------------------------------------------
+
 learning react
 
 1.function
@@ -13,3 +19,17 @@ learning react
 11.truthy value faulsy value 
 12.defult paremeter
 13.lacal storage and sesion storage  
+
+
+
+
+
+2-----------------------------------------------------
+
+
+14. similar in look different in data thakbe ..(Component)
+how to identify component 
+1. similar in look , different in data ...................
+2.Container component (repeting)..........................
+3.breakDown component 
+4.Simple Cmponent (Stand Along)
