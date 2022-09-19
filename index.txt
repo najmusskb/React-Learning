@@ -1,8 +1,7 @@
 
------------------------------learning react-----------------------
+-------------learning react-----------
 
-modle 01 ---------------------------------------------------------
-
+modle 01 ---------------------------------------------
 1.function
 2.arrow function 
 3.spreads operator 
@@ -21,11 +20,12 @@ modle 01 ---------------------------------------------------------
 
 
 
-module 02---------------------------------------------------
+module 02---------------------------------------------
 
 how to identify component 
-1. similar in look , different in data ...................
-2.Container component (repeting)..........................
+
+1. similar in look , different in data ................
+2.Container component (repeting).......................
 3.breakDown component 
 4.Simple Cmponent (Stand Along)
 
@@ -34,6 +34,21 @@ how to identify component
 
 
 
-module 03----------------------------------------------------
+module 03------------------------------
 
 countries and arr join ()
+
+
+
+module 04-------------------------------
+1.single page application (react)
+2.lazy loading
+3.SEO (Search Engine Optimization)
+
+
+
+
+Module 05------------------------------
+single page application
+1.React routing........................
+2.Location.hash='#type'
