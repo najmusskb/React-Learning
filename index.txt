@@ -1,10 +1,7 @@
--------------------------Module 
 
+-----------------------------learning react-----------------------
 
-
-1---------------------------------------------------------
-
-learning react
+modle 01 ---------------------------------------------------------
 
 1.function
 2.arrow function 
@@ -24,12 +21,19 @@ learning react
 
 
 
-2-----------------------------------------------------
+module 02---------------------------------------------------
 
-
-14. similar in look different in data thakbe ..(Component)
 how to identify component 
 1. similar in look , different in data ...................
 2.Container component (repeting)..........................
 3.breakDown component 
 4.Simple Cmponent (Stand Along)
+
+
+
+
+
+
+module 03----------------------------------------------------
+
+countries and arr join ()
