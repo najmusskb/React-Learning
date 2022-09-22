@@ -28,6 +28,7 @@ const GetCountriesHTML=({name,flags,area})=>{
 
 // option 01 orginal
 
+
 /* // return `
     // <div class="style">
     // <h2>${country.name.common}</h2>
@@ -44,8 +45,5 @@ const GetCountriesHTML=({name,flags,area})=>{
     //     <img src="${flags.png}">
     //     </div>
     //     `; */
-
-
-
 
 countries()

@@ -51,3 +51,21 @@ Module 05------------------------------
 single page application
 1.React routing........................
 2.Location.hash='#type'
+Module 06------------------------------
+
+
+
+
+
+
+
+
+Module 07------------------------------
+distructure
+
+
+
+
+sumarry 
+
+types of component of a react 
